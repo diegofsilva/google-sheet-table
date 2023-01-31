@@ -1,0 +1,15 @@
+{
+  "name": "google-sheet-table",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Diego Fernando Silva",
+  "license": "bsd-3-clause",
+  "devDependencies": {
+    "@types/google-apps-script": "^1.0.56",
+    "typescript": "^4.9.4"
+  }
+}
